@@ -1,0 +1,23 @@
+_repo: Games-for-Hallow-e-en_5890
+creator:
+  author:
+    agent_name: Blain, Mary E.
+    alias: Barse, Mary Emma Salisbury
+    birthdate: 1872
+    gutenberg_agent_id: '1893'
+    url: http://www.gutenberg.org/2009/agents/1893
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Halloween'
+- !lcc 'GT'
+- !lcsh 'Games'
+title: Games for Hallow-e'en
+url: http://www.gutenberg.org/ebooks/5890
