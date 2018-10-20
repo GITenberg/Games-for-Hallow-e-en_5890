@@ -1,5 +1,5 @@
 _repo: Games-for-Hallow-e-en_5890
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,5 +25,6 @@ subjects:
 - !lcsh 'Halloween'
 - !lcc 'GT'
 - !lcsh 'Games'
+- GITenberg
 title: Games for Hallow-e'en
 url: http://www.gutenberg.org/ebooks/5890
